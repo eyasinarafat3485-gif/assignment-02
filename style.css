@@ -411,8 +411,7 @@ footer .end-text{
     }
     #meet .meet-heading{
         align-items: center;
-        text-align: center;
-        
+        text-align: center;   
     } 
     .meet-box{
         display: flex;
