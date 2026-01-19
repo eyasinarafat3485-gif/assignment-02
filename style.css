@@ -426,8 +426,7 @@ footer .end-text{
     } 
     footer{
         background-image: url("assets/footer-bg.png");
-        background-position: center;
-        
+        background-position: center;    
     }
     footer .footer-social ul{
         display: flex;
